@@ -12,8 +12,8 @@
 
 |  |  |
 |--|--|
-| NIM | **nim** |
-| Nama Lengkap | **nama** |
+| NIM | **1841720124** |
+| Nama Lengkap | **Henry Michael** |
 | Kelas | TI-3D/3E |
 
 
@@ -33,4 +33,4 @@ Jika saya melakukan plagiasi, kecurangan, atau melanggar hak kekayaan intelektua
 
 Ttd,
 
-***(nama lengkap Anda)***
+***Henry Michael***
