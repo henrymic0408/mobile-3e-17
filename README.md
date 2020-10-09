@@ -14,7 +14,7 @@
 |--|--|
 | NIM | **1841720124** |
 | Nama Lengkap | **Henry Michael** |
-| Kelas | TI-3D/3E |
+| Kelas | TI-3E |
 
 
 ## Struktur Folder
